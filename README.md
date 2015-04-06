@@ -2,6 +2,9 @@ jQuery Snippets
 ===============
 jQuery is easily build a custom Snipptes as required.
 
+### Custom Responsive Menu
+http://jsfiddle.net/vickyshinde/w5L9b/
+
 ### jQuery Fixed Footer
 http://jsfiddle.net/vickyshinde/Wq7KS/
 
@@ -14,16 +17,13 @@ http://jsfiddle.net/vickyshinde/Nr7UT/
 ### Floating Placeholders
 http://jsfiddle.net/vickyshinde/x4mT5/
 
-### http://jsfiddle.net/vickyshinde/w5L9b/
-http://jsfiddle.net/vickyshinde/w5L9b/
-
 ### Equal Height Columns (DIVs)
 http://jsfiddle.net/vickyshinde/7jrGQ/
 
 ### Mobile DropDown Menu - Two level
 http://jsfiddle.net/vickyshinde/7tzNr/4/
 
-### http://jsfiddle.net/vickyshinde/Rr2U3/
+### Div Same Height
 http://jsfiddle.net/vickyshinde/Rr2U3/
 
 ### ToolTip
